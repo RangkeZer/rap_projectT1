@@ -1,0 +1,44 @@
+body{
+    height: 1000vh;
+    background-color: #E5E5E5;
+    background-size: cover;
+    background-position:center ;
+    background: no-repeat;
+  
+  }
+
+.header{
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    left: 98px;
+    top: 30px;
+}
+
+.btn{
+  height: 1121px;
+  width: 916px;
+  left: 262px;
+  top: 142px;
+  border-radius: 10px;
+
+  
+}
+   
+  .btn button{
+    position: absolute;
+    background: #393939;
+    border: none;
+    padding: 10px 18px;
+    font-family: 'Avenir';
+    font-size: 14px;
+    color: white;
+  }
+
+.book{
+  position: absolute;
+    width: 916px;
+    height: 1121px;
+    left: 262px;
+    top: 142px;
+}

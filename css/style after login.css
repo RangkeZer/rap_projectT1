@@ -1,0 +1,133 @@
+.body{
+    height: 1000vh;
+    background-color: #E5E5E5;
+    background-size: cover;
+    background-position:center ;
+    background: no-repeat;
+  
+}
+ .header{
+      position: absolute;
+      width: 100px;
+      height: 60px;
+      left: 98px;
+      top: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.user{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1195px;
+    top: 48px;
+}
+.cart{
+    position: absolute;
+    width: 35px;
+    height: 32.26px;
+    left: 1100px;
+    top: 60px;
+}
+
+
+
+
+
+.main{
+    position: relative;
+    width: 170.43px;
+    height: 39.7px;
+    left: 240.00px;
+    top: 634.38px;
+    
+}
+.btn{
+    position: relative;
+    width: 160.7px;
+    height: 28.05px;
+    left: 92px;
+    top: 443px;
+    
+}
+   
+.btn button{
+     
+    position: absolute;
+    background: #393939;
+    border: none;
+    padding: 10px 18px;
+    font-family: 'Avenir';
+    font-size: 14px;
+    color: white;
+}
+    
+  
+.content1{
+    position: absolute;
+    width: 683px;
+    height: 60px;
+    left: 379px;
+    top: 217px;
+  
+}
+.middle{
+    position: absolute;
+    width: 770px;
+    height: 106x;
+    left: 215px;
+    top: 60px;
+  
+    font-family: 'Vollkorn';
+    font-size: normal;
+    font-weight: 200;
+    font-size: 32px;
+    line-height: 57px;
+    text-align: center;
+    color: black;
+}
+  
+  
+.layar{
+    position: absolute;
+    width: 1326px;
+    height: 351px;
+    left: -40px;
+    top: 374px;
+}
+
+.layar2{
+    position: absolute;
+    width: 1082px;
+    height: 497px;
+    left: -40px;
+    top: 817px;
+}
+  
+.btn3{
+    position: relative;
+    width: 170.43px;
+    height: 39.7px;
+    left: -40px;
+    top: 600.20px;
+    
+}
+  
+.btn3 button{
+     
+    position: absolute;
+    background: #393939;
+    border: none;
+    padding: 10px 18px;
+    font-family: 'Avenir';
+    font-size: 14px;
+    color: white;
+}
+  
+  
